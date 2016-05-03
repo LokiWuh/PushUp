@@ -50,5 +50,5 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
     private void  TestUpLoadMadeAChange() {}
-    int i = 1 +1;
+    int i = 1 + 1 - 3;
 }
