@@ -51,4 +51,5 @@ public class MainActivity extends AppCompatActivity {
     }
     private void  TestAnotherBranch() {}
     int i = 1 +1;
+    int h = 2 + 2;
 }
